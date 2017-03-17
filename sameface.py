@@ -4,8 +4,7 @@ import sys
 
 apiKey = "**YOUR_KEY_HERE**"
 
-# Documentation for AnalyzeAdult Endpoint
-# https://www.haystack.ai/docs?python#analyzeadult
+# https://www.haystack.ai/docs?python#verify
 def facesAreSame(imageData1, imageData2):
 	outputType = "json"
 	requestUri = "https://api.haystack.ai/api/image/verify?output={}&apikey={}".format(outputType, apiKey)
