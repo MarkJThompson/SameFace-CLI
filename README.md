@@ -7,9 +7,9 @@ python sameface.py pic1.jpg pic2.jpg
 ```
 
 ### You can even use it for more advanced tasks like:
--Face comparison
--Face search
--Face identification
--Face identifier
--Face recognition
+- Face comparison
+- Face search
+- Face identification
+- Face identifier
+- Face recognition
 
